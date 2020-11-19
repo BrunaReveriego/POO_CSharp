@@ -1,0 +1,7 @@
+C:\Curso_CSharp_OO\Interfaces\IComparable\Course2\bin\Debug\Course2.exe.config
+C:\Curso_CSharp_OO\Interfaces\IComparable\Course2\bin\Debug\Course2.exe
+C:\Curso_CSharp_OO\Interfaces\IComparable\Course2\bin\Debug\Course2.pdb
+C:\Curso_CSharp_OO\Interfaces\IComparable\Course2\obj\Debug\Course2.csprojAssemblyReference.cache
+C:\Curso_CSharp_OO\Interfaces\IComparable\Course2\obj\Debug\Course2.csproj.CoreCompileInputs.cache
+C:\Curso_CSharp_OO\Interfaces\IComparable\Course2\obj\Debug\Course2.exe
+C:\Curso_CSharp_OO\Interfaces\IComparable\Course2\obj\Debug\Course2.pdb
