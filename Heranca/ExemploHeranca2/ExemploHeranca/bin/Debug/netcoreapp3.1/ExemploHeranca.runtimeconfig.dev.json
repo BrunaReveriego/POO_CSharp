@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CAPGEMINI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CAPGEMINI\\.nuget\\packages"
+    ]
+  }
+}

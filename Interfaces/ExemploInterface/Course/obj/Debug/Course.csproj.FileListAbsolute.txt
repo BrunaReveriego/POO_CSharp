@@ -1,0 +1,7 @@
+C:\Curso_CSharp_OO\Course\Course\bin\Debug\Course.exe.config
+C:\Curso_CSharp_OO\Course\Course\bin\Debug\Course.exe
+C:\Curso_CSharp_OO\Course\Course\bin\Debug\Course.pdb
+C:\Curso_CSharp_OO\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Curso_CSharp_OO\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Curso_CSharp_OO\Course\Course\obj\Debug\Course.exe
+C:\Curso_CSharp_OO\Course\Course\obj\Debug\Course.pdb

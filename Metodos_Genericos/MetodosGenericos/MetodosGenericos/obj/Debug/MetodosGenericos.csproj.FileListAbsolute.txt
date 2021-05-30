@@ -1,0 +1,7 @@
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericos\bin\Debug\MetodosGenericos.exe.config
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericos\bin\Debug\MetodosGenericos.exe
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericos\bin\Debug\MetodosGenericos.pdb
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericos\obj\Debug\MetodosGenericos.csprojAssemblyReference.cache
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericos\obj\Debug\MetodosGenericos.csproj.CoreCompileInputs.cache
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericos\obj\Debug\MetodosGenericos.exe
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericos\obj\Debug\MetodosGenericos.pdb

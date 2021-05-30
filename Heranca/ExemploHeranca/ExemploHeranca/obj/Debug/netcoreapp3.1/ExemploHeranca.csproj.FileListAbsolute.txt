@@ -1,0 +1,13 @@
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\bin\Debug\netcoreapp3.1\ExemploHeranca.exe
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\bin\Debug\netcoreapp3.1\ExemploHeranca.deps.json
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\bin\Debug\netcoreapp3.1\ExemploHeranca.runtimeconfig.json
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\bin\Debug\netcoreapp3.1\ExemploHeranca.runtimeconfig.dev.json
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\bin\Debug\netcoreapp3.1\ExemploHeranca.dll
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\bin\Debug\netcoreapp3.1\ExemploHeranca.pdb
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\obj\Debug\netcoreapp3.1\ExemploHeranca.csprojAssemblyReference.cache
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\obj\Debug\netcoreapp3.1\ExemploHeranca.AssemblyInfoInputs.cache
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\obj\Debug\netcoreapp3.1\ExemploHeranca.AssemblyInfo.cs
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\obj\Debug\netcoreapp3.1\ExemploHeranca.csproj.CoreCompileInputs.cache
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\obj\Debug\netcoreapp3.1\ExemploHeranca.dll
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\obj\Debug\netcoreapp3.1\ExemploHeranca.pdb
+C:\Curso_ASP_MVC\ExemploHeranca\ExemploHeranca\obj\Debug\netcoreapp3.1\ExemploHeranca.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericosIComparable\bin\Debug\MetodosGenericosIComparable.exe.config
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericosIComparable\bin\Debug\MetodosGenericosIComparable.exe
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericosIComparable\bin\Debug\MetodosGenericosIComparable.pdb
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericosIComparable\obj\Debug\MetodosGenericosIComparable.csproj.CoreCompileInputs.cache
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericosIComparable\obj\Debug\MetodosGenericosIComparable.exe
+C:\Curso_CSharp_OO\Metodos_Genericos\MetodosGenericos\MetodosGenericosIComparable\obj\Debug\MetodosGenericosIComparable.pdb
