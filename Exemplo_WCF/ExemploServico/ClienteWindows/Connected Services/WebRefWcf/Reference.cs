@@ -9,7 +9,45 @@
 
 namespace WebRefWcf
 {
+    using System.Runtime.Serialization;
     
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="Produto", Namespace="http://schemas.datacontract.org/2004/07/ExemploServico")]
+    public partial class Produto : object
+    {
+        
+        private string NomeField;
+        
+        private decimal PrecoField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string Nome
+        {
+            get
+            {
+                return this.NomeField;
+            }
+            set
+            {
+                this.NomeField = value;
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public decimal Preco
+        {
+            get
+            {
+                return this.PrecoField;
+            }
+            set
+            {
+                this.PrecoField = value;
+            }
+        }
+    }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="WebRefWcf.IServico01")]
@@ -27,6 +65,12 @@ namespace WebRefWcf
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IServico01/Somar", ReplyAction="http://tempuri.org/IServico01/SomarResponse")]
         System.Threading.Tasks.Task<int> SomarAsync(int x, int y);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IServico01/PromocaoDoDia", ReplyAction="http://tempuri.org/IServico01/PromocaoDoDiaResponse")]
+        WebRefWcf.Produto PromocaoDoDia();
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IServico01/PromocaoDoDia", ReplyAction="http://tempuri.org/IServico01/PromocaoDoDiaResponse")]
+        System.Threading.Tasks.Task<WebRefWcf.Produto> PromocaoDoDiaAsync();
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.0.2")]
@@ -97,6 +141,16 @@ namespace WebRefWcf
         public System.Threading.Tasks.Task<int> SomarAsync(int x, int y)
         {
             return base.Channel.SomarAsync(x, y);
+        }
+        
+        public WebRefWcf.Produto PromocaoDoDia()
+        {
+            return base.Channel.PromocaoDoDia();
+        }
+        
+        public System.Threading.Tasks.Task<WebRefWcf.Produto> PromocaoDoDiaAsync()
+        {
+            return base.Channel.PromocaoDoDiaAsync();
         }
         
         public virtual System.Threading.Tasks.Task OpenAsync()

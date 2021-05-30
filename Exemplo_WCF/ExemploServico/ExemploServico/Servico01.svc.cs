@@ -16,6 +16,16 @@ namespace ExemploServico
             return "Alterado: Isso vem de um servidor usando WCF!";
         }
 
+        public Produto PromocaoDoDia()
+        {
+            var p = new Produto();
+            p.Id = 10;
+            p.Nome = "Bolacha Oreo";
+            p.Preco = 4;
+
+            return p;
+        }
+
         public int Somar(int x, int y)
         {
             return x + y;

@@ -111,7 +111,6 @@ C:\Nano\Exemplo_WCF\ExemploServico\ExemploServico\bin\roslyn\VBCSCompiler.exe
 C:\Nano\Exemplo_WCF\ExemploServico\ExemploServico\bin\roslyn\VBCSCompiler.exe.config
 C:\Nano\Exemplo_WCF\ExemploServico\ExemploServico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Nano\Exemplo_WCF\ExemploServico\ExemploServico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Nano\Exemplo_WCF\ExemploServico\ExemploServico\obj\Debug\ExemploServico.csprojAssemblyReference.cache
 C:\Nano\Exemplo_WCF\ExemploServico\ExemploServico\obj\Debug\ExemploServico.csproj.CoreCompileInputs.cache
 C:\Nano\Exemplo_WCF\ExemploServico\ExemploServico\obj\Debug\ExemploServico.csproj.CopyComplete
 C:\Nano\Exemplo_WCF\ExemploServico\ExemploServico\obj\Debug\ExemploServico.dll

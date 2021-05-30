@@ -23,8 +23,12 @@ namespace ClienteWindows
             //string msg = wcf.Mensagem() ;
             //MessageBox.Show(msg);
 
-            int total = wcf.Somar(10, 20);
-            MessageBox.Show(total.ToString());
+            //int total = wcf.Somar(10, 20);
+            //MessageBox.Show(total.ToString());
+
+            var produto = wcf.PromocaoDoDia();
+
+            MessageBox.Show(produto.Nome + " " + produto.Preco.ToString("c"));
 
         }
     }
