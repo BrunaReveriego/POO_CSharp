@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Scripts/jquery-3.4.1.js"></script>
+    <script src="Scripts/jquery.signalR-2.2.2.js"></script>
+    <script src="signalr/hubs"></script>
+    <script>
+        $(function () {
+
+            //Conectando o hub
+            var h = $.connection.exemploHub;
+
+
+            //Definir a função javascript para o Hub pode chamar
+
+            //server --> client
+            h.client.enviarMensagemParaClient = function (mensagem) {
+                $('#mensagens').append(mensagem + '<hr />');
+            };
+
+
+            //funçao para chamar o Hub Client --> server
+
+            function enviarMensagemParaHub() {
+                var texto = $('#mensagem').val();
+                h.server.enviarMensagemParaHub(texto);
+                $('#mensagem').val('').focus();
+            }
+
+            function addEventoClick() {
+                $('#enviar').click(enviarMensagemParaHub);
+            }
+
+            $.connection.hub.start().done(addEventoClick);
+
+            $('#mensagem').focus();
+
+        });
+
+
+    </script>
+
+</head>
+<body>
+    <h1>Enviar Dados</h1>
+    <label>Digite a mensagem:</label>
+    <input type="text" id="mensagem" />
+    <input type="button" id="enviar" value="Enviar" />
+    <br />
+    <div id="mensagens"></div>
+</body>
+</html>
