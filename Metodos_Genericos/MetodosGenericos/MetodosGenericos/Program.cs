@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MetodosGenericos
+
 {
     class Program
     {
@@ -12,18 +13,18 @@ namespace MetodosGenericos
         {
             int a = 10;
             int b = 20;
-            Trocar<int>(ref a, ref b);
+            Trocar<int>(a, b);
             Console.WriteLine(a + " " + b);
  
             string x = "primeiro";
             string y = "segundo";
 
-            Trocar<string>(ref x, ref y);
+            Trocar<string>(x,  y);
             Console.WriteLine(x + " " + y);
             Console.ReadKey();
         }
 
-        private static void Trocar<T>(ref T lhs, ref T rhs)
+        private static void Trocar<T>(T lhs,T rhs)
         {
             T temp;
             temp = lhs;

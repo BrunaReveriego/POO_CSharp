@@ -1,0 +1,3 @@
+Atalhos Visual Studio
+
+Ctrl + . => Abre menu de dicas para soluções de erros
